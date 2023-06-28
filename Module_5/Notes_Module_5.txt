@@ -1,0 +1,6 @@
+Module 5 - Working with Numpy Arrays & Simple APIs
+
+Numpy 1D Arrays
+Numpy 2D Arrays
+Simple APIs
+API Setup

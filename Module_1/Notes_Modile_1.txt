@@ -1,0 +1,6 @@
+Module 1 - Python Basics
+
+Your first program
+Types
+Expressions and Variables
+String Operations
